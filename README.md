@@ -8,4 +8,7 @@
 - 💬 Ask me about 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love meme's. Do you love memes? Let's talk about it.
--->
+
+
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
