@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on finishing my first mobile application                     
 - 🌱 I’m currently learning how to use Unity and Unreal Engine
-- 👯 I’m looking to collaborate on anything you want! Let's start brainstorming! 
+- 👾 Poke' Nerd
 - 🤔 I’m looking for help with C++
-- 💬 Ask me about 
+- 🍜 Ramen connoisseur
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love meme's. Do you love memes? Let's talk about it.
 
