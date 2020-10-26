@@ -1,13 +1,26 @@
  How's it going? 👋
 
 
-- 🔭 I’m currently working on finishing my first mobile application
+- 🔭 I’m currently working on finishing my first mobile application                     
 - 🌱 I’m currently learning how to use Unity and Unreal Engine
 - 👯 I’m looking to collaborate on anything you want! Let's start brainstorming! 
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love meme's. Do you love memes? Let's talk about it.
+
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> Art by Dee Ramos https://www.instagram.com/cinnabar_canis/?hl=en
+![Poke Trainer Jazz](https://user-images.githubusercontent.com/68389919/97127718-c8c1ed00-1710-11eb-9523-594f9a742579.jpg) 
+
+
+
+
+
+
+
+
+
 
 
 
