@@ -11,4 +11,8 @@
 
 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> https://www.instagram.com/adventures.with.jem/?hl=en
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />  https://www.facebook.com/JasmineEMeade
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />   https://twitter.com/JasmineMeade4
